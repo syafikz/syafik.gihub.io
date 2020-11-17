@@ -7,7 +7,401 @@
    "fan_banner": "",
    "fan_interstitial": "",
    "kang_zayvius": [
-      
+      {
+         "id": "1",
+         "link_images": "https://fsb.zobj.net/crop.php?r=B0qc3K3qAkTA0uS3Gfnc-F92nJpJRutXwM7xDGIf-lHYp54w5L_PqMMf5BHOLummlyvfYqHcWWOI8dcDNn-DclNlBhVKKdY7lf4Wr6XiR3nQNkEUVea6dRK3hDblAmmuwvDZqrM-pSJIiqxY"
+      },
+      {
+         "id": "2",
+         "link_images": "https://images.pexels.com/photos/1624496/pexels-photo-1624496.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+      },
+      {
+         "id": "3",
+         "link_images": "https://images.pexels.com/photos/1656579/pexels-photo-1656579.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+      },
+      {
+         "id": "4",
+         "link_images": "https://images.pexels.com/photos/3617500/pexels-photo-3617500.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+      },
+      {
+         "id": "5",
+         "link_images": "https://images.pexels.com/photos/3934512/pexels-photo-3934512.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+      },
+      {
+         "id": "6",
+         "link_images": "https://images.pexels.com/photos/1624438/pexels-photo-1624438.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+      },
+      {
+         "id": "7",
+         "link_images": "https://images.pexels.com/photos/2088203/pexels-photo-2088203.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+      },
+      {
+         "id": "8",
+         "link_images": "https://images.pexels.com/photos/2437299/pexels-photo-2437299.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+      },
+      {
+         "id": "9",
+         "link_images": "https://images.pexels.com/photos/1420440/pexels-photo-1420440.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+      },
+      {
+         "id": "10",
+         "link_images": "https://images.pexels.com/photos/2911521/pexels-photo-2911521.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+      },{
+         "id": "11",
+         "link_images": "https://images.pexels.com/photos/1366919/pexels-photo-1366919.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+      },
+      {
+         "id": "12",
+         "link_images": "https://images.pexels.com/photos/1624496/pexels-photo-1624496.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+      },
+      {
+         "id": "13",
+         "link_images": "https://images.pexels.com/photos/1656579/pexels-photo-1656579.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+      },
+      {
+         "id": "14",
+         "link_images": "https://images.pexels.com/photos/3617500/pexels-photo-3617500.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+      },
+      {
+         "id": "15",
+         "link_images": "https://images.pexels.com/photos/3934512/pexels-photo-3934512.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+      },
+      {
+         "id": "16",
+         "link_images": "https://images.pexels.com/photos/1624438/pexels-photo-1624438.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+      },
+      {
+         "id": "17",
+         "link_images": "https://images.pexels.com/photos/2088203/pexels-photo-2088203.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+      },
+      {
+         "id": "18",
+         "link_images": "https://images.pexels.com/photos/2437299/pexels-photo-2437299.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+      },
+      {
+         "id": "19",
+         "link_images": "https://images.pexels.com/photos/1420440/pexels-photo-1420440.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+      },
+      {
+         "id": "20",
+         "link_images": "https://images.pexels.com/photos/2911521/pexels-photo-2911521.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+      },
+	  {
+         "id": "21",
+         "link_images": "https://fsb.zobj.net/crop.php?r=B0qc3K3qAkTA0uS3Gfnc-F92nJpJRutXwM7xDGIf-lHYp54w5L_PqMMf5BHOLummlyvfYqHcWWOI8dcDNn-DclNlBhVKKdY7lf4Wr6XiR3nQNkEUVea6dRK3hDblAmmuwvDZqrM-pSJIiqxY"
+      },
+      {
+         "id": "22",
+         "link_images": "https://images.pexels.com/photos/1624496/pexels-photo-1624496.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+      },
+      {
+         "id": "23",
+         "link_images": "https://images.pexels.com/photos/1656579/pexels-photo-1656579.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+      },
+      {
+         "id": "24",
+         "link_images": "https://images.pexels.com/photos/3617500/pexels-photo-3617500.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+      },
+      {
+         "id": "25",
+         "link_images": "https://images.pexels.com/photos/3934512/pexels-photo-3934512.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+      },
+      {
+         "id": "26",
+         "link_images": "https://images.pexels.com/photos/1624438/pexels-photo-1624438.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+      },
+      {
+         "id": "27",
+         "link_images": "https://images.pexels.com/photos/2088203/pexels-photo-2088203.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+      },
+      {
+         "id": "28",
+         "link_images": "https://images.pexels.com/photos/2437299/pexels-photo-2437299.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+      },
+      {
+         "id": "29",
+         "link_images": "https://images.pexels.com/photos/1420440/pexels-photo-1420440.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+      },
+      {
+         "id": "30",
+         "link_images": "https://images.pexels.com/photos/2911521/pexels-photo-2911521.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+      },{
+         "id": "31",
+         "link_images": "https://images.pexels.com/photos/1366919/pexels-photo-1366919.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+      },
+      {
+         "id": "32",
+         "link_images": "https://images.pexels.com/photos/1624496/pexels-photo-1624496.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+      },
+      {
+         "id": "33",
+         "link_images": "https://images.pexels.com/photos/1656579/pexels-photo-1656579.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+      },
+      {
+         "id": "34",
+         "link_images": "https://images.pexels.com/photos/3617500/pexels-photo-3617500.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+      },
+      {
+         "id": "35",
+         "link_images": "https://images.pexels.com/photos/3934512/pexels-photo-3934512.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+      },
+      {
+         "id": "36",
+         "link_images": "https://images.pexels.com/photos/1624438/pexels-photo-1624438.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+      },
+      {
+         "id": "37",
+         "link_images": "https://images.pexels.com/photos/2088203/pexels-photo-2088203.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+      },
+      {
+         "id": "38",
+         "link_images": "https://images.pexels.com/photos/2437299/pexels-photo-2437299.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+      },
+      {
+         "id": "39",
+         "link_images": "https://images.pexels.com/photos/1420440/pexels-photo-1420440.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+      },
+      {
+         "id": "40",
+         "link_images": "https://images.pexels.com/photos/2911521/pexels-photo-2911521.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+      },
+	  {
+         "id": "41",
+         "link_images": "https://fsb.zobj.net/crop.php?r=B0qc3K3qAkTA0uS3Gfnc-F92nJpJRutXwM7xDGIf-lHYp54w5L_PqMMf5BHOLummlyvfYqHcWWOI8dcDNn-DclNlBhVKKdY7lf4Wr6XiR3nQNkEUVea6dRK3hDblAmmuwvDZqrM-pSJIiqxY"
+      },
+      {
+         "id": "42",
+         "link_images": "https://images.pexels.com/photos/1624496/pexels-photo-1624496.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+      },
+      {
+         "id": "43",
+         "link_images": "https://images.pexels.com/photos/1656579/pexels-photo-1656579.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+      },
+      {
+         "id": "44",
+         "link_images": "https://images.pexels.com/photos/3617500/pexels-photo-3617500.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+      },
+      {
+         "id": "45",
+         "link_images": "https://images.pexels.com/photos/3934512/pexels-photo-3934512.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+      },
+      {
+         "id": "46",
+         "link_images": "https://images.pexels.com/photos/1624438/pexels-photo-1624438.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+      },
+      {
+         "id": "47",
+         "link_images": "https://images.pexels.com/photos/2088203/pexels-photo-2088203.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+      },
+      {
+         "id": "48",
+         "link_images": "https://images.pexels.com/photos/2437299/pexels-photo-2437299.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+      },
+      {
+         "id": "49",
+         "link_images": "https://images.pexels.com/photos/1420440/pexels-photo-1420440.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+      },
+      {
+         "id": "50",
+         "link_images": "https://images.pexels.com/photos/2911521/pexels-photo-2911521.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+      },{
+         "id": "51",
+         "link_images": "https://images.pexels.com/photos/1366919/pexels-photo-1366919.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+      },
+      {
+         "id": "52",
+         "link_images": "https://images.pexels.com/photos/1624496/pexels-photo-1624496.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+      },
+      {
+         "id": "53",
+         "link_images": "https://images.pexels.com/photos/1656579/pexels-photo-1656579.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+      },
+      {
+         "id": "54",
+         "link_images": "https://images.pexels.com/photos/3617500/pexels-photo-3617500.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+      },
+      {
+         "id": "55",
+         "link_images": "https://images.pexels.com/photos/3934512/pexels-photo-3934512.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+      },
+      {
+         "id": "56",
+         "link_images": "https://images.pexels.com/photos/1624438/pexels-photo-1624438.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+      },
+      {
+         "id": "57",
+         "link_images": "https://images.pexels.com/photos/2088203/pexels-photo-2088203.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+      },
+      {
+         "id": "58",
+         "link_images": "https://images.pexels.com/photos/2437299/pexels-photo-2437299.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+      },
+      {
+         "id": "59",
+         "link_images": "https://images.pexels.com/photos/1420440/pexels-photo-1420440.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+      },
+      {
+         "id": "60",
+         "link_images": "https://images.pexels.com/photos/2911521/pexels-photo-2911521.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+      },
+	  {
+         "id": "61",
+         "link_images": "https://fsb.zobj.net/crop.php?r=B0qc3K3qAkTA0uS3Gfnc-F92nJpJRutXwM7xDGIf-lHYp54w5L_PqMMf5BHOLummlyvfYqHcWWOI8dcDNn-DclNlBhVKKdY7lf4Wr6XiR3nQNkEUVea6dRK3hDblAmmuwvDZqrM-pSJIiqxY"
+      },
+      {
+         "id": "62",
+         "link_images": "https://images.pexels.com/photos/1624496/pexels-photo-1624496.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+      },
+      {
+         "id": "63",
+         "link_images": "https://images.pexels.com/photos/1656579/pexels-photo-1656579.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+      },
+      {
+         "id": "64",
+         "link_images": "https://images.pexels.com/photos/3617500/pexels-photo-3617500.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+      },
+      {
+         "id": "65",
+         "link_images": "https://images.pexels.com/photos/3934512/pexels-photo-3934512.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+      },
+      {
+         "id": "66",
+         "link_images": "https://images.pexels.com/photos/1624438/pexels-photo-1624438.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+      },
+      {
+         "id": "67",
+         "link_images": "https://images.pexels.com/photos/2088203/pexels-photo-2088203.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+      },
+      {
+         "id": "68",
+         "link_images": "https://images.pexels.com/photos/2437299/pexels-photo-2437299.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+      },
+      {
+         "id": "69",
+         "link_images": "https://images.pexels.com/photos/1420440/pexels-photo-1420440.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+      },
+      {
+         "id": "70",
+         "link_images": "https://images.pexels.com/photos/2911521/pexels-photo-2911521.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+      },{
+         "id": "71",
+         "link_images": "https://images.pexels.com/photos/1366919/pexels-photo-1366919.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+      },
+      {
+         "id": "72",
+         "link_images": "https://images.pexels.com/photos/1624496/pexels-photo-1624496.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+      },
+      {
+         "id": "73",
+         "link_images": "https://images.pexels.com/photos/1656579/pexels-photo-1656579.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+      },
+      {
+         "id": "74",
+         "link_images": "https://images.pexels.com/photos/3617500/pexels-photo-3617500.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+      },
+      {
+         "id": "75",
+         "link_images": "https://images.pexels.com/photos/3934512/pexels-photo-3934512.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+      },
+      {
+         "id": "76",
+         "link_images": "https://images.pexels.com/photos/1624438/pexels-photo-1624438.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+      },
+      {
+         "id": "77",
+         "link_images": "https://images.pexels.com/photos/2088203/pexels-photo-2088203.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+      },
+      {
+         "id": "78",
+         "link_images": "https://images.pexels.com/photos/2437299/pexels-photo-2437299.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+      },
+      {
+         "id": "79",
+         "link_images": "https://images.pexels.com/photos/1420440/pexels-photo-1420440.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+      },
+      {
+         "id": "80",
+         "link_images": "https://images.pexels.com/photos/2911521/pexels-photo-2911521.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+      },
+	  {
+         "id": "81",
+         "link_images": "https://fsb.zobj.net/crop.php?r=B0qc3K3qAkTA0uS3Gfnc-F92nJpJRutXwM7xDGIf-lHYp54w5L_PqMMf5BHOLummlyvfYqHcWWOI8dcDNn-DclNlBhVKKdY7lf4Wr6XiR3nQNkEUVea6dRK3hDblAmmuwvDZqrM-pSJIiqxY"
+      },
+      {
+         "id": "82",
+         "link_images": "https://images.pexels.com/photos/1624496/pexels-photo-1624496.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+      },
+      {
+         "id": "83",
+         "link_images": "https://images.pexels.com/photos/1656579/pexels-photo-1656579.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+      },
+      {
+         "id": "84",
+         "link_images": "https://images.pexels.com/photos/3617500/pexels-photo-3617500.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+      },
+      {
+         "id": "85",
+         "link_images": "https://images.pexels.com/photos/3934512/pexels-photo-3934512.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+      },
+      {
+         "id": "86",
+         "link_images": "https://images.pexels.com/photos/1624438/pexels-photo-1624438.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+      },
+      {
+         "id": "87",
+         "link_images": "https://images.pexels.com/photos/2088203/pexels-photo-2088203.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+      },
+      {
+         "id": "88",
+         "link_images": "https://images.pexels.com/photos/2437299/pexels-photo-2437299.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+      },
+      {
+         "id": "89",
+         "link_images": "https://images.pexels.com/photos/1420440/pexels-photo-1420440.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+      },
+      {
+         "id": "90",
+         "link_images": "https://images.pexels.com/photos/2911521/pexels-photo-2911521.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+      },{
+         "id": "91",
+         "link_images": "https://images.pexels.com/photos/1366919/pexels-photo-1366919.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+      },
+      {
+         "id": "92",
+         "link_images": "https://images.pexels.com/photos/1624496/pexels-photo-1624496.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+      },
+      {
+         "id": "93",
+         "link_images": "https://images.pexels.com/photos/1656579/pexels-photo-1656579.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+      },
+      {
+         "id": "94",
+         "link_images": "https://images.pexels.com/photos/3617500/pexels-photo-3617500.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+      },
+      {
+         "id": "95",
+         "link_images": "https://images.pexels.com/photos/3934512/pexels-photo-3934512.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+      },
+      {
+         "id": "96",
+         "link_images": "https://images.pexels.com/photos/1624438/pexels-photo-1624438.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+      },
+      {
+         "id": "97",
+         "link_images": "https://images.pexels.com/photos/2088203/pexels-photo-2088203.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+      },
+      {
+         "id": "98",
+         "link_images": "https://images.pexels.com/photos/2437299/pexels-photo-2437299.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+      },
+      {
+         "id": "99",
+         "link_images": "https://images.pexels.com/photos/1420440/pexels-photo-1420440.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+      },
+      {
+         "id": "100",
+         "link_images": "https://images.pexels.com/photos/2911521/pexels-photo-2911521.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+      }
       
    ]
 }
