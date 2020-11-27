@@ -1,0 +1,44 @@
+{
+    "More":
+    [
+  {
+    "id":1,
+    "judul":"Alien Nebak Gambar V1.1",
+    "image":"https://aliendro.id/uploads/images/202010/img_x500_5f75cd57c95d24-35892570-77528121.jpg",
+    "link":"https://aliendro.id/alien-nebak-gambar-v11-16"
+  },
+  {
+    "id":2,
+    "judul":"Alien Skin Craft V1.1",
+    "image":"https://aliendro.id/uploads/images/202009/img_x500_5f748b8941e1d9-76852947-35724018.jpg",
+     "link":"https://aliendro.id/alien-skin-craft-v11-3"
+  },
+  {
+    "id":3,
+    "judul":"Alien Wallapper Json V2.8",
+    "image":"https://aliendro.id/uploads/images/202009/img_x500_5f748768ab9724-22614153-29713412.jpg",
+    "link":"https://aliendro.id/alien-wallapper-json-v28-2"
+  }
+],
+
+    "Iklan": [
+        {
+        "status": "0",
+        "link": "https://play.google.com/store/apps/details?id=com.alquranterjemahanindonesia.guruandroid",
+        "pengaturan_iklan":"1",
+        "startappid":"12345678",
+        "admob_inter": "ca-app-pub-8074230319419198/4554857297",
+        "admob_native": "ca-app-pub-3940256099942544/2247696110",
+        "admob_open":"ca-app-pub-8074230319419198/4554857297",
+        "fan_inter": "981545408591412_999151030164183",
+        "fan_native_banner": "981545408591412_2870610639684870",
+        "interval": 2,
+        "hpk_admob1":"",
+        "hpk_admob2":"",
+        "hpk_admob3":"",
+        "hpk_admob4":"",
+        "hpk_admob5":""
+        }
+    ]
+
+}
