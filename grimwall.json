@@ -1,7 +1,7 @@
 {
    "packagename": "com.wallpaper.Grizzy_and_Lemmings",
    "admob": "true",
-   "fan": "true",
+   "fan": "false",
    "admob_banner": "ca-app-pub-3940256099942544/6300978111",
    "admob_interstitial": "ca-app-pub-3940256099942544/1033173712",
    "fan_banner": "",
