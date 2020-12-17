@@ -32,7 +32,7 @@
         "admob_open":"ca-app-pub-3940256099942544/3419835294",
         "fan_inter": "981545408591412_999151030164183",
         "fan_native_banner": "981545408591412_2870610639684870",
-        "interval": 2,
+        "interval": 3,
         "mopub_banner":"",
         "mopub_inter":""
         }
