@@ -1,0 +1,55 @@
+{
+"More":
+    [
+ {
+    "id":1,
+    "judul":"MP3 Multi Ads",
+    "image":"https://scontent.fcgk18-2.fna.fbcdn.net/v/t1.0-0/p480x480/93246195_261157725277574_1720625595982807040_o.jpg?_nc_cat=100&_nc_sid=8024bb&_nc_ohc=gj_-fnOMejsAX8UrpYJ&_nc_ht=scontent.fcgk18-2.fna&_nc_tp=6&oh=c0e202f460488b7bcbe07224c97a2412&oe=5EC24A79",
+    "link":"https://www.facebook.com/aliendroidstudio/posts/261159425277404"
+  },
+  {
+    "id":2,
+    "judul":"Wallpaper Json",
+    "image":"https://scontent.fcgk18-2.fna.fbcdn.net/v/t1.0-0/p480x480/92571715_255544925838854_5503643562077585408_o.jpg?_nc_cat=104&_nc_sid=8024bb&_nc_ohc=PRpXEoDOX1UAX_U8yqo&_nc_ht=scontent.fcgk18-2.fna&_nc_tp=6&oh=69d25893d49d506aea3ef2e619eb1233&oe=5EC1C446",
+     "link":"https://www.facebook.com/aliendroidstudio/posts/255549092505104"
+  },
+  {
+    "id":3,
+    "judul":"Guide Json",
+    "image":"https://scontent.fcgk18-2.fna.fbcdn.net/v/t1.0-0/p480x480/91080900_251144816278865_2820888782906064896_o.jpg?_nc_cat=102&_nc_sid=8024bb&_nc_ohc=43w0gqQ__94AX-2W52h&_nc_ht=scontent.fcgk18-2.fna&_nc_tp=6&oh=5e3983e1ece2b481978aa4e27e569278&oe=5EC1B8E9",
+    "link":"https://www.facebook.com/aliendroidstudio/posts/251155719611108"
+  },
+  {
+    "id":4,
+    "judul":"Guide Blogspot",
+    "image":"https://scontent.fcgk18-1.fna.fbcdn.net/v/t1.0-0/p480x480/89941644_236400271086653_8098666792345403392_o.jpg?_nc_cat=101&_nc_sid=8024bb&_nc_ohc=kTBC4cUal8EAX9XGnjs&_nc_ht=scontent.fcgk18-1.fna&_nc_tp=6&oh=06ee07af33484cee5ef48c6cb0357fa5&oe=5EC24282",
+     "link":"https://www.facebook.com/aliendroidstudio/posts/236402677753079"
+  },
+  {
+    "id":5,
+    "judul":"Video json",
+    "image":"https://scontent.fcgk18-2.fna.fbcdn.net/v/t1.0-0/p480x480/93486369_265069094886437_1305520885179875328_o.jpg?_nc_cat=104&_nc_sid=8024bb&_nc_ohc=Ju6p36l_lloAX-5UtO0&_nc_ht=scontent.fcgk18-2.fna&_nc_tp=6&oh=2c94cf2291f6d402408f67a6da1d2a3d&oe=5EC99EA3",
+    "link":"https://www.facebook.com/aliendroidstudio/posts/265070101553003"
+  }
+
+],
+    "Iklan": [
+        {
+        "status": "0",
+        "link": "https://play.google.com/store/apps/details?id=",
+        "pengaturan_iklan":"4",
+        "startappid":"12345678",
+        
+        "admob_inter": "ca-app-pub-3940256099942544/1033173712",
+        "admob_banner": "ca-app-pub-3940256099942544/2247696110",
+        "admob_openads":"ca-app-pub-3940256099942544/1033173712",
+
+        "fan_inter": "981545408591412_999151030164183",
+        "fan_banner": "981545408591412_1153592198053398",
+        "interval":0,
+      
+        "hpk":"asuransi, keuangan, pendidikan, dll"
+
+        }
+    ]
+}
