@@ -27,12 +27,12 @@
         "link": "https://play.google.com/store/apps/details?id=com.alquranterjemahanindonesia.guruandroid",
         "pengaturan_iklan":"1",
         "startappid":"12345678",
-        "admob_inter": "ca-app-pub-8074230319419198/4554857297",
-        "admob_banner": "ca-app-pub-3940256099942544/2247696110",
-        "admob_open":"ca-app-pub-8074230319419198/4554857297",
-        "fan_inter": "981545408591412_999151030164183",
-        "fan_native_banner": "981545408591412_2870610639684870",
-        "interval": 2,
+        "admob_inter": "ca-app-pub-3940256099942544/1033173712",
+        "admob_banner": "ca-app-pub-3940256099942544/6300978111",
+        "admob_open":"	ca-app-pub-3940256099942544/3419835294",
+        "fan_inter": "",
+        "fan_native_banner": "",
+        "interval": 5,
         "mopub_banner":"",
         "mopub_inter":""
         }
