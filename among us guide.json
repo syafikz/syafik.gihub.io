@@ -25,14 +25,14 @@
         {
         "status": "0",
         "link": "https://play.google.com/store/apps/details?id=com.alquranterjemahanindonesia.guruandroid",
-        "pengaturan_iklan":"1",
+        "pengaturan_iklan":"2",
         "startappid":"12345678",
         "admob_inter": "",
-        "admob_banner": "ca-app-pub-6712422552397894/9591200786",
+        "admob_banner": "",
         "admob_open":"",
-        "fan_inter": "",
-        "fan_native_banner": "",
-        "interval": 5,
+        "fan_inter": "387568392304313_387569118970907",
+        "fan_native_banner": "387568392304313_387568618970957",
+        "interval": 3,
         "mopub_banner":"",
         "mopub_inter":""
         }
