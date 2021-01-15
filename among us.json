@@ -40,12 +40,12 @@
         "pengaturan_iklan":"1",
         "startappid":"12345678",
         
-        "admob_inter": "ca-app-pub-4532367817673781/2905554690",
-        "admob_banner": "ca-app-pub-4532367817673781/3829729911",
-        "admob_openads":"ca-app-pub-4532367817673781/8857042928",
+        "admob_inter": "",
+        "admob_banner": "",
+        "admob_openads":"",
 
-        "fan_inter": "981545408591412_999151030164183",
-        "fan_banner": "981545408591412_1153592198053398",
+        "fan_inter": "670613023867109_670613880533690",
+        "fan_banner": "670613023867109_670616260533452",
         "interval":3,
       
         "hpk":"asuransi, keuangan, pendidikan, dll"
