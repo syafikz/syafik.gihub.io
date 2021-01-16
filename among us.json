@@ -37,15 +37,15 @@
         {
         "status": "0",
         "link": "https://play.google.com/store/apps/details?id=",
-        "pengaturan_iklan":"2",
+        "pengaturan_iklan":"1",
         "startappid":"12345678",
         
-        "admob_inter": "",
-        "admob_banner": "",
-        "admob_openads":"",
+        "admob_inter": "ca-app-pub-4532367817673781/9975812775",
+        "admob_banner": "ca-app-pub-4532367817673781/3601976115",
+        "admob_openads":"ca-app-pub-4532367817673781/8662731108",
 
-        "fan_inter": "670613023867109_670613880533690",
-        "fan_banner": "670613023867109_670616260533452",
+        "fan_inter": "",
+        "fan_banner": "",
         "interval":3,
       
         "hpk":"asuransi, keuangan, pendidikan, dll"
